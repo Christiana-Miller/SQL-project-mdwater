@@ -1,3 +1,4 @@
+-- Part 1
 -- CREATING EMPLOYEE EMAIL ADDRESSES
 -- Checking the format of email addresses before updating it
 SELECT employee_name, 
